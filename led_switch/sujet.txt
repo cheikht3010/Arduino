@@ -1,0 +1,2 @@
+Code permettant d'allumer et d'éteindre une LED grâce à deux boutons monté en switch.
+N'importe lequel des deux boutons peut éteindre ou allumer la LED en fonction de l'état de cette dernière.

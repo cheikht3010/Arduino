@@ -1,0 +1,2 @@
+Il y a deux LEDs qui clignotent alternativement. Lorsque l'une est allumée l'autre est éteinte et vice versa.
+Un potententiométre permet de juguler la vitesse de clignotement des deux LEDs.
