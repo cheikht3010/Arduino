@@ -1,0 +1,9 @@
+Faire un programme en python sur votre ordinateur capable de détecter lorsqu'on appuie sur un bouton de votre montage et émettre un son. Et vice versa, que votre microcontrôleur détecte lorsque l’on appuie sur un bouton de votre ordinateur (par exemple, la barre d’espace) et que lorsqu’il détecte ce signal, il joue un son avec un buzzer et allume une LED.
+
+Cela permettrait en théorie de communiquer en morse entre l’ordinateur et le microcontrôleur.
+
+Facultatif (Pour aller plus loin et gagner quelque point bonus)
+
+Faire un traducteur de phrase vers du morse et vice versa.
+
+Avec un programme python, traduire une phrases vers du morse et envoyer la séquence sur votre microcontrôleur pour jouer les sons. Et/ou lorsque l’utilisateur envoie un message en morse à l’aide des boutons du microcontrôleur traduire en lettres sur votre console de votre ordinateur.
